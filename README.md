@@ -5,8 +5,8 @@
   Software Developer/Researcher from Brazil
   
   <div id="badges">
-      <a href="https://www.linkedin.com/in/andreswebs/">
-          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" target="_blank" />
+      <a href="https://www.linkedin.com/in/andreswebs/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
       </a> 
   </div>
   <hr />
