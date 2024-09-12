@@ -19,7 +19,7 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="golang" **alt="golang" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="kubernetes" **alt="kubernetes" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="40" height="40"/>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="aws" **alt="aws" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="aws" **alt="aws" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="googlecloud" **alt="googlecloud" width="40" height="40"/>
       <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="digitalocean" **alt="digitalocean" width="40" height="40"/>
   </div>
