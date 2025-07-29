@@ -2,9 +2,9 @@
 
   ### Andre Silva
   
-  Software Developer/Researcher
+  _Software Developer/Researcher_
 
-  I design, implement and optimize cloud infrastructure and CI/CD pipelines to deliver scalable, secure, and high-velocity solutions across engineering teams.
+  I design, implement and optimize cloud infrastructure and software delivery pipelines to create scalable, secure, and high-velocity solutions across engineering teams.
   
   <div id="badges">
       <a href="https://www.linkedin.com/in/andreswebs/" target="_blank" rel="noreferrer noopener" >
