@@ -2,7 +2,7 @@
 
   ### Andre Silva
   
-  _Software Developer/Researcher_
+  _Platform Engineer_
 
   I design, implement and optimize cloud infrastructure and software delivery pipelines to create scalable, secure, and high-velocity solutions across engineering teams.
   
